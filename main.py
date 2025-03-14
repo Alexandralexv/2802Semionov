@@ -1,3 +1,5 @@
+# niccyper
+
 # # import os
 # # my_secret = os.environ['MY_SECRET']
 # # print(my_secret)
@@ -186,7 +188,7 @@ for i in range(16):
 print('Am_lst:', Am_lst)
 print('C_ost_lst:', C_ost_lst)
 
-print("")
+print("hi")
 
  #2 способ
 Aj=0
